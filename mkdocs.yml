@@ -1,0 +1,111 @@
+# Project information
+site_name: ISTQB Education Material
+site_url: https://github.com/fabianpg95/istqb-material
+
+# Repository
+repo_name: istqb-material
+repo_url: https://github.com/fabianpg95/istqb-material
+
+# Page tree
+nav:
+  - Home:
+    - Introduction: index.md
+    - ISTQB Material:
+      - Testing skills:
+        - 'Introduction': 'istqb_material/fundamentals/test_intro.md'
+        - '7 test principles': 'istqb_material/fundamentals/test_principles.md'
+        - 'Test process': 'istqb_material/fundamentals/test_process.md'
+        - 'Defect report': 'istqb_material/fundamentals/defect_report.md'
+        - 'Defect types': 'istqb_material/fundamentals/defect_types.md'
+      - Software lifecycle:
+        - 'Models': 'istqb_material/software_lifecycle/dev_models.md'
+        - 'Test levels': 'istqb_material/software_lifecycle/test_levels.md'
+      - Test types:
+        - 'Classification': 'istqb_material/test_types/test_classification.md'
+        - 'Functional test': 'istqb_material/test_types/func_test.md'
+        - 'Non functional test': 'istqb_material/test_types/non_func_test.md'
+        - 'Black Box': 'istqb_material/test_types/black_box.md'
+        - 'White Box': 'istqb_material/test_types/white_box.md'
+        - 'Change related test': 'istqb_material/test_types/change_rel.md'
+      - Static & Dynamic test:
+        - 'Static vs Dynamic': 'istqb_material/static_dynamic_test/dif_stat_dyn.md'
+        - 'Static test': 'istqb_material/static_dynamic_test/static_test.md'
+        - 'Dynamic test': 'istqb_material/static_dynamic_test/dynamic_test.md'
+      - Test techniques:
+        # - Black Box:
+        #  - 'Boundary Value Analysis': 'istqb_material/test_techniques/black_box/bound_val_an.md'
+        #  - 'Decision Table’: 'istqb_material/black_box/dec_tab_test.md'
+        #  - 'Equivalent Partitioning': 'istqb_material/test_techniques/black_box/equ_part.md'
+        #  - 'State Transition’: 'istqb_material/test_techniques/black_box/sta_trans_test.md'
+        #  - 'Use Case test’: 'istqb_material/test_techniques/black_box/use_case_test.md'
+        - White Box:
+          - 'Decision Test Coverage': 'istqb_material/test_techniques/white_box/dec_test_cov.md'
+          - 'Value State Decision': 'istqb_material/test_techniques/white_box/val_st_dec_test.md'
+        - Experienced Based:
+          - 'Exp Based Technique': 'istqb_material/test_techniques/experience_based/exp_based_tech.md'
+      - Tools support:
+        - 'Classification': 'istqb_material/tool_support_test/test_tool_clas.md'
+        - 'Manual vs Automation': 'istqb_material/tool_support_test/man_vs_aut.md'
+        - 'Tool selection': 'istqb_material/tool_support_test/tool_selection.md'
+      - 'References': 'istqb_material/test_ref.md'
+
+# Configurations
+theme:
+  name: "material"
+  language: "en"
+
+  # Configuration
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+  font:
+    text: "Roboto"
+  favicon: images/favicon.png
+  icon:
+    repo: fontawesome/brands/git-alt
+  feature:
+    tabs: true
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - header.autohide
+    - toc.autohide
+    - content.code.annotate
+  extra:
+    version:
+      method: mike
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
+  - attr_list
+  - def_list
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+
