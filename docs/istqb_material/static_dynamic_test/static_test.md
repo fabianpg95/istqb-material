@@ -13,7 +13,7 @@ ___
 
 Can be used to 'test' any form of document including *source code*, *design documents* and *models*, *functional specifications* and *requirements*.
 
-![**Static test techiques**](../../../images/istqb/static_dynamic_test/static_test_techiniques.jpg)
+![**Static test techiques**](../../images/istqb/static_dynamic_test/static_test_techiniques.jpg)
 
 ### **Review:**
 

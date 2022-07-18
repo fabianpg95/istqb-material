@@ -1,1 +1,1 @@
-![**Hierarchy Dynamic and Static testing**](../../../images/istqb/static_dynamic_test/soft_test_types.jpg)
+![**Hierarchy Dynamic and Static testing**](../../images/istqb/static_dynamic_test/soft_test_types.jpg)

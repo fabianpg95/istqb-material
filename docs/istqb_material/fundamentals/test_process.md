@@ -17,4 +17,4 @@ Contextual factor that influence the test process for an organization include, b
 ___
 ### **Test activities and tasks**
 
-![**Test activities and tasks**](../../../images/istqb/fundamentals/test_activities.png)
+![**Test activities and tasks**](../../images/istqb/fundamentals/test_activities.png)

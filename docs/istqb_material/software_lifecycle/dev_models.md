@@ -8,7 +8,7 @@ ___
 
 ## **Software Development Process Models.**
 
-![**SDLC**](../../../images/istqb/software_lifecycle/sdlc_models.png)
+![**SDLC**](../../images/istqb/software_lifecycle/sdlc_models.png)
 
 ISTQB Syllabus divide the models into 3 categories:
 
@@ -18,14 +18,14 @@ ISTQB Syllabus divide the models into 3 categories:
 
 **3.- Iterative and Incremental**
 
-![**SDLC**](../../../images/istqb/software_lifecycle/seq-it-process.png)
+![**SDLC**](../../images/istqb/software_lifecycle/seq_it_process.png)
 
 
 ### **Traditional SDLC**
 
 The traditional SDLC is a model used in project management that defines the stages include in an information system development project, from an initial feasibility study to the maintenance of the completed application.
 
-![**SDLC**](../../../images/istqb/software_lifecycle/sdlc.png)
+![**SDLC**](../../images/istqb/software_lifecycle/sdlc.png)
 
 ### **Sequential Development model**
 
@@ -37,12 +37,12 @@ That means that any phase in the development process should only begin when the 
 
 * **Waterfall model**
 
-![**Waterfall model**](../../../images/istqb/software_lifecycle/waterfall_model.png)
+![**Waterfall model**](../../images/istqb/software_lifecycle/waterfall_model.png)
 
 
 * **V-model**
 
-![**Waterfall model**](../../../images/istqb/software_lifecycle/v_model.png)
+![**Waterfall model**](../../images/istqb/software_lifecycle/v_model.png)
 
 
 **Explanation:**
@@ -61,7 +61,7 @@ ___
 
 Works on smaller incremental developments. (*iterations*)
 
-![**Iterative model**](../../../images/istqb/software_lifecycle/iterative_model.png)
+![**Iterative model**](../../images/istqb/software_lifecycle/iterative_model.png)
 
 ___
 ## **Good practices for Software Development and Software Testing:**

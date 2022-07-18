@@ -13,7 +13,7 @@ ___
 ___
 ## **Dynamic Testing Techniques:**
 
-![**Dynamic test techniques**](../../../images/istqb/static_dynamic_test/dyn_test_tech.png)
+![**Dynamic test techniques**](../../images/istqb/static_dynamic_test/dyn_test_tech.png)
 
 ### **Functional Testing:**
 

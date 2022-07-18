@@ -1,7 +1,7 @@
 Over the last 50 years, there have been number of testing principles that offer general guidelines but the ISTQB Syllabus covers 7 principles:
 ___
 
-![**Seven principles**](../../../images/istqb/fundamentals/seven_principles.png)
+![**Seven principles**](../../images/istqb/fundamentals/seven_principles.png)
 ## **Principle 1:** Testing shows presence of defects, not their absence.
 
 Testing can show that defects are present, but it cannot prove that no defects are remaining.
@@ -24,7 +24,7 @@ ___
 
 The following diagram shows that the relative cost of fixing the defects increase with each project phase.
 
-![**Cost of fixing defects**](../../../images/istqb/fundamentals/relative_cost.png)
+![**Cost of fixing defects**](../../images/istqb/fundamentals/relative_cost.png)
 ___
 ## **Principle 4:** Defects cluster together
 

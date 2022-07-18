@@ -1,9 +1,9 @@
 For every test level, a suitable test environment is required, for example for Acceptance is Production and for Unit tests is the development environment.
 
-![**Test levels**](../../../images/istqb/software_lifecycle/test_levels_pyr.png)
+![**Test levels**](../../images/istqb/software_lifecycle/test_levels_pyr.png)
 
 
-![**Test levels explained**](../../../images/istqb/software_lifecycle/test_levels_graphic.png)
+![**Test levels explained**](../../images/istqb/software_lifecycle/test_levels_graphic.png)
 
 ___
 ## **Unit/component testing**

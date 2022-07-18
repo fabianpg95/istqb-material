@@ -53,7 +53,7 @@ Failures may also caused by environmental conditions
 
 ### **Diagram:**
 
-![**Error-Defect-Failure meanings**](../../../images/istqb/fundamentals/err_def_fail.png)
+![**Error-Defect-Failure meanings**](../../images/istqb/fundamentals/err_def_fail.png)
 gst
 ___
 

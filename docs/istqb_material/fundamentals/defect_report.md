@@ -27,4 +27,4 @@ ___
 
 ### **Example of a defect report:**
 
-![**Defect report**](../../../images/istqb/fundamentals/def_report.png)
+![**Defect report**](../../images/istqb/fundamentals/def_report.png)
