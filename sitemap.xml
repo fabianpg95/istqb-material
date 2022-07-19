@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_ref/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/fundamentals/defect_report/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/fundamentals/defect_types/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/fundamentals/test_intro/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/fundamentals/test_principles/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/fundamentals/test_process/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/software_lifecycle/dev_models/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/software_lifecycle/test_levels/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/static_dynamic_test/dif_stat_dyn/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/static_dynamic_test/dynamic_test/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/static_dynamic_test/static_test/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_techniques/experience_based/exp_based_tech/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_techniques/white_box/dec_test_cov/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_techniques/white_box/sta_test_cov/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_techniques/white_box/val_st_dec_test/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/black_box/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/change_rel/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/func_test/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/non_func_test/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/test_classification/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/test_types/white_box/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/tool_support_test/man_vs_aut/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/tool_support_test/test_tool_clas/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/fabianpg95/istqb-material/istqb_material/tool_support_test/tool_selection/</loc>
-         <lastmod>2022-07-18</lastmod>
+         <lastmod>2022-07-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
