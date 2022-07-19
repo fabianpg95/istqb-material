@@ -78,7 +78,7 @@ theme:
     tabs: true
   features:
     - navigation.tabs
-    - navigation.sections
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - header.autohide
