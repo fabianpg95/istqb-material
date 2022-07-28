@@ -8,46 +8,47 @@ repo_url: https://github.com/fabianpg95/istqb-material
 
 # Page tree
 nav:
-  - Home:
-    - Introduction: index.md
-    - ISTQB Material:
-      - Testing skills:
-        - 'Introduction': 'istqb_material/fundamentals/test_intro.md'
-        - '7 test principles': 'istqb_material/fundamentals/test_principles.md'
-        - 'Test process': 'istqb_material/fundamentals/test_process.md'
-        - 'Defect report': 'istqb_material/fundamentals/defect_report.md'
-        - 'Defect types': 'istqb_material/fundamentals/defect_types.md'
+      - Fundamentals:
+        - '1.-Content': 'fundamentals/1.-content.md'
+        - '1.1-What is testing?': 'fundamentals/1.1-what-is-testing.md'
+        - '1.2-Why is testing necessary?': 'fundamentals/1.2-why-test-neces.md'
+        - '1.3- 7 test principles': 'fundamentals/1.3-seven-test-princ.md'
+        - '1.4-Test process': 'fundamentals/1.4-test-process.md'
+        - '1.5-Psycology of testing': 'fundamentals/1.5-psyco-of-testing.md'
+
       - Software lifecycle:
-        - 'Models': 'istqb_material/software_lifecycle/dev_models.md'
-        - 'Test levels': 'istqb_material/software_lifecycle/test_levels.md'
-      - Test types:
-        - 'Classification': 'istqb_material/test_types/test_classification.md'
-        - 'Functional test': 'istqb_material/test_types/func_test.md'
-        - 'Non functional test': 'istqb_material/test_types/non_func_test.md'
-        - 'Black Box': 'istqb_material/test_types/black_box.md'
-        - 'White Box': 'istqb_material/test_types/white_box.md'
-        - 'Change related test': 'istqb_material/test_types/change_rel.md'
-      - Static & Dynamic test:
-        - 'Static vs Dynamic': 'istqb_material/static_dynamic_test/dif_stat_dyn.md'
-        - 'Static test': 'istqb_material/static_dynamic_test/static_test.md'
-        - 'Dynamic test': 'istqb_material/static_dynamic_test/dynamic_test.md'
+        - '1.-Content': 'software_lifecycle/1.-content.md'
+        - '2.1-Objectives of testing': 'software_lifecycle/2.1-obj-testing-softw.md'
+        - '2.2-Test levels': 'software_lifecycle/2.2-test-levels.md'
+        - '2.3-Test types': 'software_lifecycle/2.3-test-types.md'
+        - '2.4-Maintenance testing': 'software_lifecycle/2.4-maintenance-testing.md'
+
+      - Static Test:
+        - '1.-Content': 'static_test/1.-content.md'
+        - '3.2-Static testing basics': 'static_test/3.2-stat-test-bas.md'
+        - '3.3-Review process': 'static_test/3.3-review-process.md'
+
       - Test techniques:
-        # - Black Box:
-        #  - 'Boundary Value Analysis': 'istqb_material/test_techniques/black_box/bound_val_an.md'
-        #  - 'Decision Table’: 'istqb_material/black_box/dec_tab_test.md'
-        #  - 'Equivalent Partitioning': 'istqb_material/test_techniques/black_box/equ_part.md'
-        #  - 'State Transition’: 'istqb_material/test_techniques/black_box/sta_trans_test.md'
-        #  - 'Use Case test’: 'istqb_material/test_techniques/black_box/use_case_test.md'
-        - White Box:
-          - 'Decision Test Coverage': 'istqb_material/test_techniques/white_box/dec_test_cov.md'
-          - 'Value State Decision': 'istqb_material/test_techniques/white_box/val_st_dec_test.md'
-        - Experienced Based:
-          - 'Exp Based Technique': 'istqb_material/test_techniques/experience_based/exp_based_tech.md'
+        - '1.-Content': 'test_techniques/1.-content.md'
+        - '4.1-Categories': 'test_techniques/4.1-cat-test-tech.md'
+        - '4.2-Black Box': 'test_techniques/4.2-black-box-tech-tecn.md'
+        - '4.3-White Box': 'test_techniques/4.3-white-box-tech.md'
+        - '4.4-Experience Based': 'test_techniques/4.4-exp-based-tech.md'
+      
+      - Test management:
+        - '1.-Content': 'test_management/1.-content.md'
+        - '5.1-Test organization': 'test_management/5.1-test-org.md'
+        - '5.2-Test plan estimation': 'test_management/5.2-test-plan-estim.md'
+        - '5.3-Test monitoring & control': 'test_management/5.3-test-mon-control.md'
+        - '5.4-Config management': 'test_management/5.4-config-manage.md'
+        - '5.5-Risk testing': 'test_management/5.5-risk-testing.md'
+        - '5.6-Defects management': 'test_management/5.6-defects-manage.md'
+
       - Tools support:
-        - 'Classification': 'istqb_material/tool_support_test/test_tool_clas.md'
-        - 'Manual vs Automation': 'istqb_material/tool_support_test/man_vs_aut.md'
-        - 'Tool selection': 'istqb_material/tool_support_test/tool_selection.md'
-      - 'References': 'istqb_material/test_ref.md'
+        - '1.-Content': 'tool_support/1.-content.md'
+        - '6.1-Test tools consideration': 'tool_support/6.1-test-tool-consid.md'
+        - '6.2-Effective use of tools': 'tool_support/6.2-effective-use-tools.md'
+      - 'References': 'test_ref.md'
 
 # Configurations
 theme:
