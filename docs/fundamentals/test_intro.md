@@ -19,7 +19,7 @@ However, test activities are before and after test execution.
 * Reporting the testing progress and results
 ___
 
-## **Typical testing objectives**
+## **Typical objectives of testing**
 
 - [x] Verify requirements
 - [x] Prevent defects
