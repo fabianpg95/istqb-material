@@ -25,8 +25,8 @@ nav:
 
       - Static Test:
         - '1.-Content': 'static_test/1.-content.md'
-        - '3.2-Static testing basics': 'static_test/3.2-stat-test-bas.md'
-        - '3.3-Review process': 'static_test/3.3-review-process.md'
+        - '3.1-Static testing basics': 'static_test/3.1-stat-test-bas.md'
+        - '3.2-Review process': 'static_test/3.2-review-process.md'
 
       - Test techniques:
         - '1.-Content': 'test_techniques/1.-content.md'
