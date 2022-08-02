@@ -9,7 +9,3 @@
 **ISTQB Official Website**
 
 - [**ISTQB Foundation Level**](https://www.istqb.org/news/press-releases/46-certification-path/foundation-level/165-foundation-level-material-for-download.html)
-
-
-- [**Agile Tester**](https://www.istqb.org/47-certification-path/agile-tester-extension/31-agile-tester-extension-material-for-download.html)
-
