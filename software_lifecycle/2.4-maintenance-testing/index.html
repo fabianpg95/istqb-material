@@ -65,7 +65,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#241-triggers-and-maintenance" class="md-skip">
+        <a href="#introduction" class="md-skip">
           Skip to content
         </a>
       
@@ -587,6 +587,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    Introduction:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#241-triggers-and-maintenance" class="md-nav__link">
     2.4.1 - Triggers and Maintenance
   </a>
@@ -1043,6 +1050,13 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#introduction" class="md-nav__link">
+    Introduction:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#241-triggers-and-maintenance" class="md-nav__link">
     2.4.1 - Triggers and Maintenance
   </a>
@@ -1076,16 +1090,73 @@
 
   <h1>2.4-Maintenance testing</h1>
 
+<h3 id="introduction"><strong>Introduction:</strong></h3>
+<p>Once deployed to production environments, software and systems need to be maintained. Changes of
+various sorts are almost inevitable in delivered software and systems, either to fix defects discovered in operational use, to add new functionality, or to delete or alter already-delivered functionality.</p>
+<ul>
+<li>Maintenance can involve planned releases and unplanned releases (hot fixes). </li>
+</ul>
+<p>A maintenance release may require maintenance testing at multiple test levels, using various test types,
+based on its scope. The scope of maintenance testing depends on:</p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> The degree of risk of the change, for example, the degree to which the changed area of software
+communicates with other components or systems</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> The size of the existing system</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> The size of the change</li>
+</ul>
 <h2 id="241-triggers-and-maintenance">2.4.1 - <strong>Triggers and Maintenance</strong></h2>
+<p><img src="../../images/istqb/software_lifecycle/triggers-maint.webp" alt="Test types" width="700" height="120"/></p>
+<p><strong>We can classify the triggers for maintenance as follows:</strong> </p>
+<ul>
+<li>
+<p><strong>Modification</strong>, such as planned enhancements (e.g., release-based), corrective and emergency
+changes, changes of the operational environment (such as planned operating system or database upgrades), upgrades of COTS software, and patches for defects and vulnerabilities</p>
+</li>
+<li>
+<p><strong>Migration</strong>
+    such as from one platform to another, which can require operational tests of the new environment.</p>
+<ul>
+<li>
+<p><strong>Retirement</strong>, such as when an application reaches the end of its life,</p>
+</li>
+<li>
+<p><strong>Testing restore/retrieve</strong> procedures after archiving for long retention periods may also be needed.</p>
+</li>
+<li>
+<p><strong>Regression</strong> testing may be needed to ensure that any functionality that remains in service still works.</p>
+</li>
+</ul>
 <hr />
+</li>
+</ul>
 <h2 id="242-impact-analysis-and-maintenance">2.4.2 - <strong>Impact Analysis and Maintenance</strong></h2>
+<ul>
+<li>
+<p>Impact analysis evaluates the changes that were made for a maintenance release to identify the intended
+consequences as well as expected and possible side effects of a change, and to identify the areas in the
+system that will be affected by the change.</p>
+</li>
+<li>
+<p>Impact analysis may be done before a change is made, to help decide if the change should be made,
+based on the potential consequences in other areas of the system.</p>
+</li>
+</ul>
+<p><strong>Impact analysis can be difficult if:</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Specifications (e.g., business requirements, user stories, architecture) are out of date or missing</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Test cases are not documented or are out of date</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Bi-directional traceability between tests and the test basis has not been maintained</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Tool support is weak or non-existent</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> The people involved do not have domain and/or system knowledge</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Insufficient attention has been paid to the software's maintainability during development</li>
+</ul>
 
   <hr>
 <div class="md-source-file">
   <small>
     
       Last update:
-      2022-07-28
+      2022-08-29
     
   </small>
 </div>
