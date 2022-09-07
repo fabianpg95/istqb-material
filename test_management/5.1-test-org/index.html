@@ -805,6 +805,8 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
           5.1-Test organization
@@ -821,19 +823,14 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#51-test-organization" class="md-nav__link">
-    5.1 - Test Organization
-  </a>
-  
-</li>
       
         <li class="md-nav__item">
   <a href="#511-independent-testing" class="md-nav__link">
@@ -846,6 +843,26 @@
   <a href="#512-tasks-of-the-test-manager-and-tester" class="md-nav__link">
     5.1.2 - Tasks of the Test Manager and Tester
   </a>
+  
+    <nav class="md-nav" aria-label="5.1.2 - Tasks of the Test Manager and Tester">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#test-manager" class="md-nav__link">
+    Test Manager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tester" class="md-nav__link">
+    Tester
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1042,19 +1059,14 @@
   
   
   
+    
+  
   
     <label class="md-nav__title" for="__toc">
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#51-test-organization" class="md-nav__link">
-    5.1 - Test Organization
-  </a>
-  
-</li>
       
         <li class="md-nav__item">
   <a href="#511-independent-testing" class="md-nav__link">
@@ -1067,6 +1079,26 @@
   <a href="#512-tasks-of-the-test-manager-and-tester" class="md-nav__link">
     5.1.2 - Tasks of the Test Manager and Tester
   </a>
+  
+    <nav class="md-nav" aria-label="5.1.2 - Tasks of the Test Manager and Tester">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#test-manager" class="md-nav__link">
+    Test Manager
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tester" class="md-nav__link">
+    Tester
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1088,20 +1120,76 @@
 
 
 
-  <h1>5.1-Test organization</h1>
-
-<h2 id="51-test-organization">5.1 - <strong>Test Organization</strong></h2>
+<h1 id="51-test-organization">5.1 - <strong>Test Organization</strong></h1>
 <hr />
 <h2 id="511-independent-testing">5.1.1 - <strong>Independent Testing</strong></h2>
+<p><img src="../../images/istqb/test_management/indep_tester.png" alt="Independent Tester" width="280" height="120"/></p>
+<ul>
+<li>
+<p>Testing tasks may be done by people in a specific testing role, or by people in another role (e.g.,
+customers). A certain degree of independence often makes the tester more effective at finding defects
+due to differences between the author’s and the tester’s cognitive biases.</p>
+</li>
+<li>
+<p>For most types of projects, it is usually best to have multiple test levels, with some of these levels handled
+by independent testers. Developers should participate in testing, especially at the lower levels, so as to
+exercise control over the quality of their own work. </p>
+</li>
+</ul>
+<p><strong>Degrees of independence in testing include the following (from low level of independence to high level):</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> No independent testers; the only form of testing available is developers testing their own code</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Independent developers or testers within the development teams or the project team; this could
+be developers testing their colleagues’ products</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Independent test team or group within the organization, reporting to project management or
+executive management</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Independent testers from the business organization or user community, or with specializations in
+specific test types such as usability, security, performance, regulatory/compliance, or portability</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Independent testers external to the organization, either working on-site (in-house) or off-site
+(outsourcing)</li>
+</ul>
+<p><img src="../../images/istqb/test_management/indep_tester2.jpeg" alt="Independent Tester" width="480" height="120"/></p>
+<p>The way in which independence of testing is implemented varies depending on the software development
+lifecycle model. </p>
+<hr />
 <hr />
 <h2 id="512-tasks-of-the-test-manager-and-tester">5.1.2 - <strong>Tasks of the Test Manager and Tester</strong></h2>
+<p><img src="../../images/istqb/test_management/testervstestman.png" alt="Tester vs Test Manager" width="280" height="120"/></p>
+<h3 id="test-manager"><strong>Test Manager</strong></h3>
+<p>The test manager is tasked with overall responsibility for the test process and successful leadership of the
+test activities. The test management role might be performed by a professional test manager, or by a
+project manager, a development manager, or a quality assurance manager.</p>
+<p><strong>Typical test manager tasks may include:</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Write and update the test plan(s)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Coordinate the test plan(s) with project managers, product owners, and others</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Share testing perspectives with other project activities, such as integration planning\</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Prepare and deliver test progress reports and test summary reports based on the information
+gathered</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Support setting up the defect management system and adequate configuration management of
+testware </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Decide about the implementation of test environment(s)</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Promote and advocate the testers, the test team, and the test profession within the organization</li>
+</ul>
+<h3 id="tester"><strong>Tester</strong></h3>
+<p>The role is oriented mostly for tasks which involve some analysis, execution and reporting of test cases, scenarios and test suites.</p>
+<p><img src="../../images/istqb/test_management/tester_tasks.jpeg" alt="Tester role" width="580" height="120"/></p>
+<p><strong>Typical tester tasks may include:</strong></p>
+<ul class="task-list">
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Design and implement test cases and test procedures</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Prepare and acquire test data</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Create the detailed test execution schedule</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Use appropriate tools to facilitate the test process </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Automate tests as needed</li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" checked/><span class="task-list-indicator"></span></label> Review tests developed by others</li>
+</ul>
 
   <hr>
 <div class="md-source-file">
   <small>
     
       Last update:
-      2022-07-28
+      2022-09-07
     
   </small>
 </div>
